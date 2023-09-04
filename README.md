@@ -5,7 +5,8 @@
 
 ### I'm TokameinE/ErodedElk
 
-- A Cyber Security Student. & Binary Security Enthusiast. & CTF player / Rookie PWNer .
+- A Cyber Security Student. & Binary Security Enthusiast.
+- CTF player. & Rookie PWNer .
 - 💬 Ask me about anything on [tokameine@gmail.com](mailto:tokameine@gmail.com)
 - ⭐ You may like [Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8)
 
