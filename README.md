@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tokameine@gmail.com)](mailto:tokameine@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-tokameine@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tokameine@gmail.com)](mailto:tokameine@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/71275387?v=4" />
 
