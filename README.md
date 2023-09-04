@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello GitHub Fans 👋
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tokameine@gmail.com)](mailto:tokameine@gmail.com)
+---
+<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/71275387?v=4" />
 
-<!--
-**ErodedElk/ErodedElk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm TokameinE/ErodedElk
 
-Here are some ideas to get you started:
+- A Cyber Security Student. & Binary Security Enthusiast. & CTF player / Rookie PWNer .
+- 💬 Ask me about anything on [tokameine@gmail.com](mailto:tokameine@gmail.com)
+- ⭐ You may like [Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 关于我
+- [Blog](https://erodedelk.github.io/about)
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [TokameinE](https://github.com/ErodedElk)
