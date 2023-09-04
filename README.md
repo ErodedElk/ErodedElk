@@ -9,6 +9,7 @@
 - 💬 Ask me about anything on [tokameine@gmail.com](mailto:tokameine@gmail.com)
 - ⭐ You may like [Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8)
 
+[![ErodedElk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErodedElk)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 关于我
 - [Blog](https://erodedelk.github.io/about)
