@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello 👋
 [![Mail Badge](https://img.shields.io/badge/-tokameine@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tokameine@gmail.com)](mailto:tokameine@gmail.com)
 ---
 
