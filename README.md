@@ -8,6 +8,7 @@
 - CTF player. & Rookie PWNer .
 - 💬 Ask me about anything on [tokameine@gmail.com](mailto:tokameine@gmail.com)
 - ⭐ You may like [Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8)
+- ⭐ You may like [VirtualAppQuickReview](https://github.com/ErodedElk/VirtualAppQuickReview)
 
 [![Toka's stats](https://github-readme-stats.vercel.app/api?username=ErodedElk&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
