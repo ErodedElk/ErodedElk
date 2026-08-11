@@ -10,7 +10,7 @@
 - ⭐ You may like [Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8)
 - ⭐ You may like [VirtualAppQuickReview](https://github.com/ErodedElk/VirtualAppQuickReview)
 
-[![Toka's stats](https://github-readme-stats.vercel.app/api?username=ErodedElk&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Toka's GitHub stats](https://github-stats-extended.vercel.app/api?username=ErodedElk)](https://github.com/stats-organization/github-stats-extended)
 
 ### 关于我
 - [Blog](https://erodedelk.github.io/about)
